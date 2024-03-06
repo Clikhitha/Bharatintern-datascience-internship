@@ -1,2 +1,2 @@
-SMS Classification
+SMS Classification and
 Titanic classification
